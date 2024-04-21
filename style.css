@@ -1,0 +1,10 @@
+*{
+    align-items: center;
+    text-align: center;
+}
+
+.card mt-3{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 10px;
+}
